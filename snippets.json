@@ -1,0 +1,23 @@
+{
+  "snippets" : [
+    {
+      "name" : "example",
+      "code" : [
+        "# This is an example snippet!",
+        "# To create your own, add a new snippet block to the",
+        "# snippets.json file in your jupyter data directory under nbextensions:",
+        "# $(jupyter --data-dir)/nbextensions/snippets/snippets.json",
+        "import this"
+      ]
+    },
+    {
+      "name" : "cv imports",
+      "code" : [
+        "import numpy as np",
+        "import imutils",
+        "import cv2",
+        "import matplotlib.pyplot as plt"
+      ]
+    }
+  ]
+}
