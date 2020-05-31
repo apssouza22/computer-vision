@@ -3,16 +3,14 @@
 This repo contains my collection of computer vision projects solving real life problems
 
 The projects are divided into two categories: 
-- Pure image processing; 
-- Leveraging from machine learning models 
+- Pure image processing using OpenCV; 
+- Leveraging from machine learning models
 
 Image processing:
 - Tracking ball using color range to identify the ball
 - Card reader
 - Document scanner 
 - Simple feature detection - finding Waldo project
-- Car detection using HAAR
-- People detection using HAAR
 - Shape identifier
 - Image search using color histogram 
 - Image duplication identifier
