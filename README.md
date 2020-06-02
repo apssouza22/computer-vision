@@ -19,13 +19,15 @@ Image processing:
 - Finger counter
 
 Machine learning models:
-- Face detection
-- Face parts detection - detecting different parts of the face (eye, nose, eyebrow, mouth, jaw)
-- Car speed monitor
-- People counter
 - Object classification
 - Object detection
 - Image segmentation
+- Car speed monitor
+- People counter
+- Face detection
+- Face parts detection - detecting different parts of the face (eye, nose, eyebrow, mouth, jaw)
+- Mask detector
+
 
 ## How to use
 - run the `download_assets.py`. This will download all required files for the examples
