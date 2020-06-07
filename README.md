@@ -27,6 +27,7 @@ Machine learning models:
 - Face detection
 - Face parts detection - detecting different parts of the face (eye, nose, eyebrow, mouth, jaw)
 - Mask detector
+- Image search using ML Autoencoder
 
 
 ## How to use
