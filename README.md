@@ -2,6 +2,8 @@
 
 This repo contains my collection of computer vision projects solving real life problems
 
+
+
 The projects are divided into two categories: 
 - Pure image processing using OpenCV; 
 - Leveraging from machine learning models
