@@ -7,6 +7,7 @@ Watch the video demonstrating the project <a href="https://www.youtube.com/watch
 The projects are divided into two categories: 
 - Pure image processing using OpenCV; 
 - Leveraging from machine learning models
+- Machine learning concepts with examples
 
 Image processing:
 - Tracking ball using color range to identify the ball
@@ -31,6 +32,9 @@ Machine learning models:
 - Mask detector
 - Image search using ML Autoencoder
 
+Machine learning concepts:
+- What are Convolutions
+- Visualizing Intermediate Representations from a model
 
 ## How to use
 - run the `download_assets.py`. This will download all required files for the examples
