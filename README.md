@@ -35,6 +35,7 @@ Machine learning models:
 Machine learning concepts:
 - What are Convolutions
 - Visualizing Intermediate Representations from a model
+- A vanilla neural network implementation
 
 ## How to use
 - run the `download_assets.py`. This will download all required files for the examples
