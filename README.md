@@ -31,6 +31,8 @@ Machine learning models:
 - Face parts detection - detecting different parts of the face (eye, nose, eyebrow, mouth, jaw)
 - Mask detector
 - Image search using ML Autoencoder
+- Neuro style transfer
+- Face generation using StyleGan 2
 
 Machine learning concepts:
 - What are Convolutions
