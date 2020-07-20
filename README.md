@@ -27,12 +27,13 @@ Machine learning models:
 - Image segmentation
 - Car speed monitor
 - People counter
-- Face detection
 - Face parts detection - detecting different parts of the face (eye, nose, eyebrow, mouth, jaw)
 - Mask detector
+- Transfer learning
 - Image search using ML Autoencoder
 - Neuro style transfer
 - Face generation using StyleGan 2
+- Image animation
 
 Machine learning concepts:
 - What are Convolutions
