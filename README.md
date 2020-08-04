@@ -2,7 +2,7 @@
 
 This repo contains my collection of computer vision projects solving real life problems
 
-Watch the video demonstrating the project <a href="https://www.youtube.com/watch?v=3VKAqVmSx60" target="_blank">here</a>
+Watch the video demonstrating the project <a href="https://youtu.be/HgB54rRLwrg" target="_blank">here</a>
 
 The project is divided in three categories: 
 - Pure image processing using OpenCV; 
