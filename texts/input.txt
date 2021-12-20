@@ -17,12 +17,9 @@ Components with a single, well-defined purpose are easy to understand and much m
 
 The basic summary of the story is that things get much easier to understand and maintain if your architectural ideas map explicitly into the code. Your code should reflect the architecture diagrams that you draw.
 
-Cohesion vs Coupling
 The code that changes together stays together. The code that serves a common purpose stays together. Cohesion is a pretty simple concept, and I hope you have understood it already.
 
 Coupling is the next important thing you need to learn correctly. It is about how much one component depends on or interacts with other components.
-
-Coupling vs Cohesion
 
 Ideally, we should aim for high cohesion and low coupling. Apply the Single Responsibility Principle (SRP) for high cohesion. Use well-defined interfaces and inversion of control for low coupling.
 
@@ -31,8 +28,3 @@ Low coupling means fewer interconnections across components. It means one compon
 When software is decomposed into smaller components, these components will inevitably interact with one another, and it will require clearly defined boundaries not to leak the domain. The result is a system that consists of cooperating but independent, bounded contexts.
 
 The basic summary of the story is that things get much easier to understand and maintain if we can effectively draw and enforce boundaries during development.
-
-Example
-I have created a project where I designed and implemented a monolithic application that was built using modularity principles. Check it out!
-
-I also recorded a video walking through the project highlighting what we have discoursed on this post.
