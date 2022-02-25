@@ -40,6 +40,8 @@ Machine learning concepts:
 - A vanilla neural network implementation
 - Transfer learning
 
+<a href="https://www.buymeacoffee.com/apssouza"><img src="https://miro.medium.com/max/654/1*rQv8JgstmK0juxP-Kb4IGg.jpeg"></a>
+
 ## How to use
 - run the `download_assets.py`. This will download all required files for the examples
 - Run the Jupyter notebook example you want to test
